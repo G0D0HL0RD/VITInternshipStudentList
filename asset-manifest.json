@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VITInternshipStudentList/static/css/main.30ea52ad.css",
+    "main.js": "/VITInternshipStudentList/static/js/main.97c305cf.js",
+    "index.html": "/VITInternshipStudentList/index.html",
+    "main.30ea52ad.css.map": "/VITInternshipStudentList/static/css/main.30ea52ad.css.map",
+    "main.97c305cf.js.map": "/VITInternshipStudentList/static/js/main.97c305cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.97c305cf.js"
+  ]
+}
