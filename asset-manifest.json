@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/VITInternshipStudentList/static/css/main.30ea52ad.css",
-    "main.js": "/VITInternshipStudentList/static/js/main.80666a2d.js",
-    "index.html": "/VITInternshipStudentList/index.html",
-    "main.30ea52ad.css.map": "/VITInternshipStudentList/static/css/main.30ea52ad.css.map",
-    "main.80666a2d.js.map": "/VITInternshipStudentList/static/js/main.80666a2d.js.map"
+    "main.css": "/VITInternshipStudentList.github.io/static/css/main.30ea52ad.css",
+    "main.js": "/VITInternshipStudentList.github.io/static/js/main.80666a2d.js",
+    "index.html": "/VITInternshipStudentList.github.io/index.html",
+    "main.30ea52ad.css.map": "/VITInternshipStudentList.github.io/static/css/main.30ea52ad.css.map",
+    "main.80666a2d.js.map": "/VITInternshipStudentList.github.io/static/js/main.80666a2d.js.map"
   },
   "entrypoints": [
     "static/css/main.30ea52ad.css",
